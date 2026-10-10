@@ -1,0 +1,2041 @@
+{
+  "source": "GMRC public notice 17-Sep-2024 and GMRC press note 13-Feb-2025",
+  "source_date": "2025-02-13",
+  "verified": false,
+  "description": "Explicit timetables for GNLU<->GIFT City shuttles and Direct APMC/Motera<->GIFT City trains",
+  "trips": [
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_1",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "08:25:00",
+          "departure": "08:25:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "08:29:00",
+          "departure": "08:29:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "08:35:00",
+          "departure": "08:35:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_2",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "09:45:00",
+          "departure": "09:45:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "09:49:00",
+          "departure": "09:49:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "09:55:00",
+          "departure": "09:55:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_3",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "11:05:00",
+          "departure": "11:05:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "11:09:00",
+          "departure": "11:09:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "11:15:00",
+          "departure": "11:15:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_4",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "12:35:00",
+          "departure": "12:35:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "12:39:00",
+          "departure": "12:39:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "12:45:00",
+          "departure": "12:45:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_5",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "13:55:00",
+          "departure": "13:55:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "13:59:00",
+          "departure": "13:59:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "14:05:00",
+          "departure": "14:05:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_6",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "15:45:00",
+          "departure": "15:45:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "15:49:00",
+          "departure": "15:49:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "15:55:00",
+          "departure": "15:55:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_7",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "17:05:00",
+          "departure": "17:05:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "17:09:00",
+          "departure": "17:09:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "17:15:00",
+          "departure": "17:15:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_8",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "17:53:00",
+          "departure": "17:53:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "17:57:00",
+          "departure": "17:57:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "18:03:00",
+          "departure": "18:03:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_UP_9",
+      "line": "Violet",
+      "service": "GNLU-GIFT Shuttle",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "gnlu",
+          "arrival": "18:25:00",
+          "departure": "18:25:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "18:29:00",
+          "departure": "18:29:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "18:35:00",
+          "departure": "18:35:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_1",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "07:18:00",
+          "departure": "07:18:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "07:23:00",
+          "departure": "07:23:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "07:28:00",
+          "departure": "07:28:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_2",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "08:38:00",
+          "departure": "08:38:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "08:43:00",
+          "departure": "08:43:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "08:48:00",
+          "departure": "08:48:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_3",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "10:38:00",
+          "departure": "10:38:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "10:43:00",
+          "departure": "10:43:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "10:48:00",
+          "departure": "10:48:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_4",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "11:28:00",
+          "departure": "11:28:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "11:33:00",
+          "departure": "11:33:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "11:38:00",
+          "departure": "11:38:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_5",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "12:48:00",
+          "departure": "12:48:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "12:53:00",
+          "departure": "12:53:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "12:58:00",
+          "departure": "12:58:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_6",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "14:38:00",
+          "departure": "14:38:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "14:43:00",
+          "departure": "14:43:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "14:58:00",
+          "departure": "14:58:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_7",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "15:58:00",
+          "departure": "15:58:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "16:03:00",
+          "departure": "16:03:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "16:08:00",
+          "departure": "16:08:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_8",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "17:18:00",
+          "departure": "17:18:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "17:23:00",
+          "departure": "17:23:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "17:28:00",
+          "departure": "17:28:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_9",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "18:05:00",
+          "departure": "18:05:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "18:10:00",
+          "departure": "18:10:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "18:15:00",
+          "departure": "18:15:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "VIOLET_SHUTTLE_DN_10",
+      "line": "Violet",
+      "service": "GIFT-GNLU Shuttle",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "18:38:00",
+          "departure": "18:38:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "18:43:00",
+          "departure": "18:43:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "18:48:00",
+          "departure": "18:48:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_APMC_GIFT_UP_1",
+      "line": "Direct",
+      "service": "APMC-GIFT City Direct Train",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "apmc",
+          "arrival": "07:28:00",
+          "departure": "07:28:00"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "07:30:17",
+          "departure": "07:30:17"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "07:32:34",
+          "departure": "07:32:34"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "07:34:51",
+          "departure": "07:34:51"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "07:37:08",
+          "departure": "07:37:08"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "07:39:25",
+          "departure": "07:39:25"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "07:41:42",
+          "departure": "07:41:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "07:44:00",
+          "departure": "07:44:00"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "07:46:17",
+          "departure": "07:46:17"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "07:48:34",
+          "departure": "07:48:34"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "07:50:51",
+          "departure": "07:50:51"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "07:53:08",
+          "departure": "07:53:08"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "07:55:25",
+          "departure": "07:55:25"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "07:57:42",
+          "departure": "07:57:42"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "08:00:00",
+          "departure": "08:00:00"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "08:03:22",
+          "departure": "08:03:22"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "08:06:45",
+          "departure": "08:06:45"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "08:10:07",
+          "departure": "08:10:07"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "08:13:30",
+          "departure": "08:13:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "08:16:52",
+          "departure": "08:16:52"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "08:20:15",
+          "departure": "08:20:15"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "08:23:37",
+          "departure": "08:23:37"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "08:27:00",
+          "departure": "08:27:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "08:32:00",
+          "departure": "08:32:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "08:43:00",
+          "departure": "08:43:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_APMC_GIFT_UP_2",
+      "line": "Direct",
+      "service": "APMC-GIFT City Direct Train",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "apmc",
+          "arrival": "08:52:00",
+          "departure": "08:52:00"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "08:54:17",
+          "departure": "08:54:17"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "08:56:34",
+          "departure": "08:56:34"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "08:58:51",
+          "departure": "08:58:51"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "09:01:08",
+          "departure": "09:01:08"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "09:03:25",
+          "departure": "09:03:25"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "09:05:42",
+          "departure": "09:05:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "09:08:00",
+          "departure": "09:08:00"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "09:10:17",
+          "departure": "09:10:17"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "09:12:34",
+          "departure": "09:12:34"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "09:14:51",
+          "departure": "09:14:51"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "09:17:08",
+          "departure": "09:17:08"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "09:19:25",
+          "departure": "09:19:25"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "09:21:42",
+          "departure": "09:21:42"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "09:24:00",
+          "departure": "09:24:00"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "09:27:22",
+          "departure": "09:27:22"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "09:30:45",
+          "departure": "09:30:45"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "09:34:07",
+          "departure": "09:34:07"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "09:37:30",
+          "departure": "09:37:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "09:40:52",
+          "departure": "09:40:52"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "09:44:15",
+          "departure": "09:44:15"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "09:47:37",
+          "departure": "09:47:37"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "09:51:00",
+          "departure": "09:51:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "09:56:00",
+          "departure": "09:56:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "10:07:00",
+          "departure": "10:07:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_APMC_GIFT_UP_3",
+      "line": "Direct",
+      "service": "APMC-GIFT City Direct Train",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "apmc",
+          "arrival": "09:53:00",
+          "departure": "09:53:00"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "09:55:17",
+          "departure": "09:55:17"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "09:57:34",
+          "departure": "09:57:34"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "09:59:51",
+          "departure": "09:59:51"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "10:02:08",
+          "departure": "10:02:08"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "10:04:25",
+          "departure": "10:04:25"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "10:06:42",
+          "departure": "10:06:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "10:09:00",
+          "departure": "10:09:00"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "10:11:17",
+          "departure": "10:11:17"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "10:13:34",
+          "departure": "10:13:34"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "10:15:51",
+          "departure": "10:15:51"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "10:18:08",
+          "departure": "10:18:08"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "10:20:25",
+          "departure": "10:20:25"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "10:22:42",
+          "departure": "10:22:42"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "10:25:00",
+          "departure": "10:25:00"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "10:28:22",
+          "departure": "10:28:22"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "10:31:45",
+          "departure": "10:31:45"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "10:35:07",
+          "departure": "10:35:07"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "10:38:30",
+          "departure": "10:38:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "10:41:52",
+          "departure": "10:41:52"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "10:45:15",
+          "departure": "10:45:15"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "10:48:37",
+          "departure": "10:48:37"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "10:52:00",
+          "departure": "10:52:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "10:57:00",
+          "departure": "10:57:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "11:08:00",
+          "departure": "11:08:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_APMC_GIFT_UP_4",
+      "line": "Direct",
+      "service": "APMC-GIFT City Direct Train",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "apmc",
+          "arrival": "15:02:00",
+          "departure": "15:02:00"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "15:04:17",
+          "departure": "15:04:17"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "15:06:34",
+          "departure": "15:06:34"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "15:08:51",
+          "departure": "15:08:51"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "15:11:08",
+          "departure": "15:11:08"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "15:13:25",
+          "departure": "15:13:25"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "15:15:42",
+          "departure": "15:15:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "15:18:00",
+          "departure": "15:18:00"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "15:20:17",
+          "departure": "15:20:17"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "15:22:34",
+          "departure": "15:22:34"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "15:24:51",
+          "departure": "15:24:51"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "15:27:08",
+          "departure": "15:27:08"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "15:29:25",
+          "departure": "15:29:25"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "15:31:42",
+          "departure": "15:31:42"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "15:34:00",
+          "departure": "15:34:00"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "15:37:22",
+          "departure": "15:37:22"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "15:40:45",
+          "departure": "15:40:45"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "15:44:07",
+          "departure": "15:44:07"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "15:47:30",
+          "departure": "15:47:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "15:50:52",
+          "departure": "15:50:52"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "15:54:15",
+          "departure": "15:54:15"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "15:57:37",
+          "departure": "15:57:37"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "16:01:00",
+          "departure": "16:01:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "16:06:00",
+          "departure": "16:06:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "16:17:00",
+          "departure": "16:17:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_APMC_GIFT_UP_5",
+      "line": "Direct",
+      "service": "APMC-GIFT City Direct Train",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "apmc",
+          "arrival": "16:14:00",
+          "departure": "16:14:00"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "16:16:17",
+          "departure": "16:16:17"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "16:18:34",
+          "departure": "16:18:34"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "16:20:51",
+          "departure": "16:20:51"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "16:23:08",
+          "departure": "16:23:08"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "16:25:25",
+          "departure": "16:25:25"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "16:27:42",
+          "departure": "16:27:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "16:30:00",
+          "departure": "16:30:00"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "16:32:17",
+          "departure": "16:32:17"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "16:34:34",
+          "departure": "16:34:34"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "16:36:51",
+          "departure": "16:36:51"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "16:39:08",
+          "departure": "16:39:08"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "16:41:25",
+          "departure": "16:41:25"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "16:43:42",
+          "departure": "16:43:42"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "16:46:00",
+          "departure": "16:46:00"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "16:49:22",
+          "departure": "16:49:22"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "16:52:45",
+          "departure": "16:52:45"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "16:56:07",
+          "departure": "16:56:07"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "16:59:30",
+          "departure": "16:59:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "17:02:52",
+          "departure": "17:02:52"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "17:06:15",
+          "departure": "17:06:15"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "17:09:37",
+          "departure": "17:09:37"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "17:13:00",
+          "departure": "17:13:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "17:18:00",
+          "departure": "17:18:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "17:29:00",
+          "departure": "17:29:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_APMC_GIFT_UP_6",
+      "line": "Direct",
+      "service": "APMC-GIFT City Direct Train",
+      "direction": "forward",
+      "stop_times": [
+        {
+          "station_id": "apmc",
+          "arrival": "17:20:00",
+          "departure": "17:20:00"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "17:22:17",
+          "departure": "17:22:17"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "17:24:34",
+          "departure": "17:24:34"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "17:26:51",
+          "departure": "17:26:51"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "17:29:08",
+          "departure": "17:29:08"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "17:31:25",
+          "departure": "17:31:25"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "17:33:42",
+          "departure": "17:33:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "17:36:00",
+          "departure": "17:36:00"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "17:38:17",
+          "departure": "17:38:17"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "17:40:34",
+          "departure": "17:40:34"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "17:42:51",
+          "departure": "17:42:51"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "17:45:08",
+          "departure": "17:45:08"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "17:47:25",
+          "departure": "17:47:25"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "17:49:42",
+          "departure": "17:49:42"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "17:52:00",
+          "departure": "17:52:00"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "17:55:22",
+          "departure": "17:55:22"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "17:58:45",
+          "departure": "17:58:45"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "18:02:07",
+          "departure": "18:02:07"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "18:05:30",
+          "departure": "18:05:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "18:08:52",
+          "departure": "18:08:52"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "18:12:15",
+          "departure": "18:12:15"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "18:15:37",
+          "departure": "18:15:37"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "18:19:00",
+          "departure": "18:19:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "18:24:00",
+          "departure": "18:24:00"
+        },
+        {
+          "station_id": "gift_city",
+          "arrival": "18:35:00",
+          "departure": "18:35:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_GIFT_APMC_DN_1",
+      "line": "Direct",
+      "service": "GIFT City-APMC Direct Train",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "09:03:00",
+          "departure": "09:03:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "09:08:00",
+          "departure": "09:08:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "09:20:00",
+          "departure": "09:20:00"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "09:23:15",
+          "departure": "09:23:15"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "09:26:30",
+          "departure": "09:26:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "09:29:45",
+          "departure": "09:29:45"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "09:33:00",
+          "departure": "09:33:00"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "09:36:15",
+          "departure": "09:36:15"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "09:39:30",
+          "departure": "09:39:30"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "09:42:45",
+          "departure": "09:42:45"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "09:46:00",
+          "departure": "09:46:00"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "09:48:17",
+          "departure": "09:48:17"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "09:50:34",
+          "departure": "09:50:34"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "09:52:51",
+          "departure": "09:52:51"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "09:55:08",
+          "departure": "09:55:08"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "09:57:25",
+          "departure": "09:57:25"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "09:59:42",
+          "departure": "09:59:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "10:02:00",
+          "departure": "10:02:00"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "10:04:17",
+          "departure": "10:04:17"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "10:06:34",
+          "departure": "10:06:34"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "10:08:51",
+          "departure": "10:08:51"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "10:11:08",
+          "departure": "10:11:08"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "10:13:25",
+          "departure": "10:13:25"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "10:15:42",
+          "departure": "10:15:42"
+        },
+        {
+          "station_id": "apmc",
+          "arrival": "10:18:00",
+          "departure": "10:18:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_GIFT_APMC_DN_2",
+      "line": "Direct",
+      "service": "GIFT City-APMC Direct Train",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "10:27:00",
+          "departure": "10:27:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "10:32:00",
+          "departure": "10:32:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "10:44:00",
+          "departure": "10:44:00"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "10:47:15",
+          "departure": "10:47:15"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "10:50:30",
+          "departure": "10:50:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "10:53:45",
+          "departure": "10:53:45"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "10:57:00",
+          "departure": "10:57:00"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "11:00:15",
+          "departure": "11:00:15"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "11:03:30",
+          "departure": "11:03:30"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "11:06:45",
+          "departure": "11:06:45"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "11:10:00",
+          "departure": "11:10:00"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "11:12:17",
+          "departure": "11:12:17"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "11:14:34",
+          "departure": "11:14:34"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "11:16:51",
+          "departure": "11:16:51"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "11:19:08",
+          "departure": "11:19:08"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "11:21:25",
+          "departure": "11:21:25"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "11:23:42",
+          "departure": "11:23:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "11:26:00",
+          "departure": "11:26:00"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "11:28:17",
+          "departure": "11:28:17"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "11:30:34",
+          "departure": "11:30:34"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "11:32:51",
+          "departure": "11:32:51"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "11:35:08",
+          "departure": "11:35:08"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "11:37:25",
+          "departure": "11:37:25"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "11:39:42",
+          "departure": "11:39:42"
+        },
+        {
+          "station_id": "apmc",
+          "arrival": "11:42:00",
+          "departure": "11:42:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_GIFT_APMC_DN_3",
+      "line": "Direct",
+      "service": "GIFT City-APMC Direct Train",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "11:28:00",
+          "departure": "11:28:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "11:33:00",
+          "departure": "11:33:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "11:45:00",
+          "departure": "11:45:00"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "11:48:15",
+          "departure": "11:48:15"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "11:51:30",
+          "departure": "11:51:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "11:54:45",
+          "departure": "11:54:45"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "11:58:00",
+          "departure": "11:58:00"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "12:01:15",
+          "departure": "12:01:15"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "12:04:30",
+          "departure": "12:04:30"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "12:07:45",
+          "departure": "12:07:45"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "12:11:00",
+          "departure": "12:11:00"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "12:13:17",
+          "departure": "12:13:17"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "12:15:34",
+          "departure": "12:15:34"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "12:17:51",
+          "departure": "12:17:51"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "12:20:08",
+          "departure": "12:20:08"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "12:22:25",
+          "departure": "12:22:25"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "12:24:42",
+          "departure": "12:24:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "12:27:00",
+          "departure": "12:27:00"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "12:29:17",
+          "departure": "12:29:17"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "12:31:34",
+          "departure": "12:31:34"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "12:33:51",
+          "departure": "12:33:51"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "12:36:08",
+          "departure": "12:36:08"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "12:38:25",
+          "departure": "12:38:25"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "12:40:42",
+          "departure": "12:40:42"
+        },
+        {
+          "station_id": "apmc",
+          "arrival": "12:43:00",
+          "departure": "12:43:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_GIFT_APMC_DN_4",
+      "line": "Direct",
+      "service": "GIFT City-APMC Direct Train",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "16:37:00",
+          "departure": "16:37:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "16:42:00",
+          "departure": "16:42:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "16:54:00",
+          "departure": "16:54:00"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "16:57:15",
+          "departure": "16:57:15"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "17:00:30",
+          "departure": "17:00:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "17:03:45",
+          "departure": "17:03:45"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "17:07:00",
+          "departure": "17:07:00"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "17:10:15",
+          "departure": "17:10:15"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "17:13:30",
+          "departure": "17:13:30"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "17:16:45",
+          "departure": "17:16:45"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "17:20:00",
+          "departure": "17:20:00"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "17:22:17",
+          "departure": "17:22:17"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "17:24:34",
+          "departure": "17:24:34"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "17:26:51",
+          "departure": "17:26:51"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "17:29:08",
+          "departure": "17:29:08"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "17:31:25",
+          "departure": "17:31:25"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "17:33:42",
+          "departure": "17:33:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "17:36:00",
+          "departure": "17:36:00"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "17:38:17",
+          "departure": "17:38:17"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "17:40:34",
+          "departure": "17:40:34"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "17:42:51",
+          "departure": "17:42:51"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "17:45:08",
+          "departure": "17:45:08"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "17:47:25",
+          "departure": "17:47:25"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "17:49:42",
+          "departure": "17:49:42"
+        },
+        {
+          "station_id": "apmc",
+          "arrival": "17:52:00",
+          "departure": "17:52:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_GIFT_APMC_DN_5",
+      "line": "Direct",
+      "service": "GIFT City-APMC Direct Train",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "17:49:00",
+          "departure": "17:49:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "17:54:00",
+          "departure": "17:54:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "18:06:00",
+          "departure": "18:06:00"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "18:09:15",
+          "departure": "18:09:15"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "18:12:30",
+          "departure": "18:12:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "18:15:45",
+          "departure": "18:15:45"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "18:19:00",
+          "departure": "18:19:00"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "18:22:15",
+          "departure": "18:22:15"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "18:25:30",
+          "departure": "18:25:30"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "18:28:45",
+          "departure": "18:28:45"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "18:32:00",
+          "departure": "18:32:00"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "18:34:17",
+          "departure": "18:34:17"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "18:36:34",
+          "departure": "18:36:34"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "18:38:51",
+          "departure": "18:38:51"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "18:41:08",
+          "departure": "18:41:08"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "18:43:25",
+          "departure": "18:43:25"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "18:45:42",
+          "departure": "18:45:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "18:48:00",
+          "departure": "18:48:00"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "18:50:17",
+          "departure": "18:50:17"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "18:52:34",
+          "departure": "18:52:34"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "18:54:51",
+          "departure": "18:54:51"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "18:57:08",
+          "departure": "18:57:08"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "18:59:25",
+          "departure": "18:59:25"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "19:01:42",
+          "departure": "19:01:42"
+        },
+        {
+          "station_id": "apmc",
+          "arrival": "19:04:00",
+          "departure": "19:04:00"
+        }
+      ]
+    },
+    {
+      "trip_id": "DIRECT_GIFT_APMC_DN_6",
+      "line": "Direct",
+      "service": "GIFT City-APMC Direct Train",
+      "direction": "backward",
+      "stop_times": [
+        {
+          "station_id": "gift_city",
+          "arrival": "18:55:00",
+          "departure": "18:55:00"
+        },
+        {
+          "station_id": "pdeu",
+          "arrival": "19:00:00",
+          "departure": "19:00:00"
+        },
+        {
+          "station_id": "gnlu",
+          "arrival": "19:12:00",
+          "departure": "19:12:00"
+        },
+        {
+          "station_id": "koba_gaam",
+          "arrival": "19:15:15",
+          "departure": "19:15:15"
+        },
+        {
+          "station_id": "juna_koba",
+          "arrival": "19:18:30",
+          "departure": "19:18:30"
+        },
+        {
+          "station_id": "koba_circle",
+          "arrival": "19:21:45",
+          "departure": "19:21:45"
+        },
+        {
+          "station_id": "narmada_canal",
+          "arrival": "19:25:00",
+          "departure": "19:25:00"
+        },
+        {
+          "station_id": "tapovan_circle",
+          "arrival": "19:28:15",
+          "departure": "19:28:15"
+        },
+        {
+          "station_id": "vishwakarma_college",
+          "arrival": "19:31:30",
+          "departure": "19:31:30"
+        },
+        {
+          "station_id": "koteshwar_road",
+          "arrival": "19:34:45",
+          "departure": "19:34:45"
+        },
+        {
+          "station_id": "motera_stadium",
+          "arrival": "19:38:00",
+          "departure": "19:38:00"
+        },
+        {
+          "station_id": "sabarmati",
+          "arrival": "19:40:17",
+          "departure": "19:40:17"
+        },
+        {
+          "station_id": "aec",
+          "arrival": "19:42:34",
+          "departure": "19:42:34"
+        },
+        {
+          "station_id": "sabarmati_railway_station",
+          "arrival": "19:44:51",
+          "departure": "19:44:51"
+        },
+        {
+          "station_id": "ranip",
+          "arrival": "19:47:08",
+          "departure": "19:47:08"
+        },
+        {
+          "station_id": "vadaj",
+          "arrival": "19:49:25",
+          "departure": "19:49:25"
+        },
+        {
+          "station_id": "vijay_nagar",
+          "arrival": "19:51:42",
+          "departure": "19:51:42"
+        },
+        {
+          "station_id": "usmanpura",
+          "arrival": "19:54:00",
+          "departure": "19:54:00"
+        },
+        {
+          "station_id": "old_high_court",
+          "arrival": "19:56:17",
+          "departure": "19:56:17"
+        },
+        {
+          "station_id": "gandhigram",
+          "arrival": "19:58:34",
+          "departure": "19:58:34"
+        },
+        {
+          "station_id": "paldi",
+          "arrival": "20:00:51",
+          "departure": "20:00:51"
+        },
+        {
+          "station_id": "shreyas",
+          "arrival": "20:03:08",
+          "departure": "20:03:08"
+        },
+        {
+          "station_id": "rajiv_nagar",
+          "arrival": "20:05:25",
+          "departure": "20:05:25"
+        },
+        {
+          "station_id": "jivraj_park",
+          "arrival": "20:07:42",
+          "departure": "20:07:42"
+        },
+        {
+          "station_id": "apmc",
+          "arrival": "20:10:00",
+          "departure": "20:10:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "demo_mode": true,
+  "source": "GMRC public notices (17-Sep-2024, 13-Feb-2025) and calibrated operational estimates",
+  "source_date": "2025-02-13",
+  "verified": false,
+  "lines": {
+    "Blue": {
+      "name": "Blue: Thaltej Gam-Vastral Gam",
+      "color": "#1D6FD8",
+      "first_train": "06:20",
+      "last_train": "22:00",
+      "headway_peak_minutes": 10,
+      "headway_offpeak_minutes": 12,
+      "speed_kmh": 35,
+      "dwell_time_seconds": 25,
+      "verified": false
+    },
+    "Red": {
+      "name": "Red: APMC-Motera Stadium",
+      "color": "#D7263D",
+      "first_train": "06:20",
+      "last_train": "22:00",
+      "headway_peak_minutes": 10,
+      "headway_offpeak_minutes": 12,
+      "speed_kmh": 35,
+      "dwell_time_seconds": 25,
+      "verified": false
+    },
+    "Yellow": {
+      "name": "Yellow: Motera Stadium-Mahatma Mandir",
+      "color": "#F2B705",
+      "first_train": "07:30",
+      "last_train": "19:30",
+      "headway_peak_minutes": 35,
+      "headway_offpeak_minutes": 55,
+      "speed_kmh": 34,
+      "dwell_time_seconds": 25,
+      "verified": false
+    },
+    "Violet": {
+      "name": "Violet: GNLU-GIFT City",
+      "color": "#7C3AED",
+      "mode": "explicit_trips",
+      "speed_kmh": 35,
+      "dwell_time_seconds": 25,
+      "verified": true
+    }
+  },
+  "peak_hours": [
+    {
+      "start": "08:00",
+      "end": "11:00"
+    },
+    {
+      "start": "16:00",
+      "end": "19:30"
+    }
+  ],
+  "fare_slabs": [
+    {
+      "max_km": 2.5,
+      "fare": 5
+    },
+    {
+      "max_km": 5.0,
+      "fare": 10
+    },
+    {
+      "max_km": 10.0,
+      "fare": 15
+    },
+    {
+      "max_km": 15.0,
+      "fare": 20
+    },
+    {
+      "max_km": 25.0,
+      "fare": 25
+    },
+    {
+      "max_km": 999.0,
+      "fare": 30
+    }
+  ],
+  "gnlu_gift_city_special_fare": 5,
+  "smart_card_discount_percent": 10,
+  "smart_card_discount_flat": 2,
+  "gnlu_gift_connector_bus": {
+    "fare": 10
+  },
+  "gift_city_shuttle": {
+    "fare": 0,
+    "lead_minutes": 25
+  },
+  "cab": {
+    "base_fare": 50,
+    "fare_per_km": 14,
+    "speed_kmh": 25,
+    "distance_multiplier": 1.35
+  },
+  "walk": {
+    "speed_kmh": 4.5,
+    "max_walking_leg_km": 1.5,
+    "transfer_buffer_minutes": 3
+  },
+  "integrated_fare_discount_percent": 10,
+  "clearing_fee_percent": 1.5
+}

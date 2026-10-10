@@ -1,0 +1,134 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-sans), 'Inter', 'Noto Sans Gujarati', 'Noto Sans Devanagari', -apple-system, BlinkMacSystemFont, sans-serif;
+  
+  /* Semantic Tokens */
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-hover: var(--surface-hover);
+  --color-surface-card: var(--surface-card);
+  --color-border: var(--border);
+  --color-foreground: var(--foreground);
+  --color-foreground-muted: var(--foreground-muted);
+  
+  --color-success: #16A34A;
+  --color-warning: #F59E0B;
+  --color-danger: #DC2626;
+
+  /* Official Transit Line Colors */
+  --color-line-blue: #1D6FD8;
+  --color-line-red: #D7263D;
+  --color-line-yellow: #F2B705;
+  --color-line-violet: #7C3AED;
+  --color-mode-bus: #0EA5E9;
+  --color-mode-walk: #64748B;
+  --color-mode-cab: #F97316;
+  --color-mode-shuttle: #10B981;
+
+  /* Spacing and Radii */
+  --radius-lg: 0.875rem;
+  --radius-xl: 1.125rem;
+  --radius-2xl: 1.375rem;
+}
+
+:root {
+  /* Light Theme */
+  --background: #F6F8FB;
+  --surface: #FFFFFF;
+  --surface-hover: #F1F5F9;
+  --surface-card: #FFFFFF;
+  --foreground: #0F172A;
+  --foreground-muted: #64748B;
+  --primary: #3B4BDC;
+  --primary-foreground: #FFFFFF;
+  --accent: #14B8A6;
+  --accent-foreground: #FFFFFF;
+  --border: #E2E8F0;
+}
+
+.dark, [data-theme='dark'] {
+  /* Dark Theme */
+  --background: #0B1220;
+  --surface: #121A2B;
+  --surface-hover: #1A253C;
+  --surface-card: #152035;
+  --foreground: #E6EAF2;
+  --foreground-muted: #94A3B8;
+  --primary: #4F60EE;
+  --primary-foreground: #FFFFFF;
+  --accent: #2DD4BF;
+  --accent-foreground: #0B1220;
+  --border: #22304A;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --background: #0B1220;
+    --surface: #121A2B;
+    --surface-hover: #1A253C;
+    --surface-card: #152035;
+    --foreground: #E6EAF2;
+    --foreground-muted: #94A3B8;
+    --primary: #4F60EE;
+    --primary-foreground: #FFFFFF;
+    --accent: #2DD4BF;
+    --accent-foreground: #0B1220;
+    --border: #22304A;
+  }
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+/* Tabular figures for timetables & fares */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--foreground-muted);
+}
+
+/* Map tiles theme adaptation */
+.dark .map-tiles, [data-theme='dark'] .map-tiles {
+  filter: invert(100%) hue-rotate(185deg) brightness(88%) contrast(92%);
+}
+
+/* Leaflet container full viewport */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+
+/* Focus styles for WCAG accessibility */
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Mobile-first bottom sheet height calculation */
+.bottom-sheet-snap {
+  height: calc(100dvh - env(safe-area-inset-top));
+  padding-bottom: env(safe-area-inset-bottom);
+}

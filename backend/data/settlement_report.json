@@ -1,0 +1,12 @@
+{
+  "trips_processed": 200,
+  "total_integrated_revenue": 2508.0,
+  "clearing_fee_percent": 1.5,
+  "clearing_entity_revenue": 37.62,
+  "operator_pools": {
+    "Metro": {
+      "revenue_share": 1268.84,
+      "legs_served": 289
+    }
+  }
+}
